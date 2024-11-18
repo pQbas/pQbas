@@ -6,7 +6,7 @@ Data Science, or Robotics. I hope you find something interesting, cheers!!!
 - 🔭 I’m currently working on IDEGO as a Web Developer
 - 👯 I’m looking to collaborate on Reinforcment Learning projects
 - 💬 Ask me about Computer Vision and Artificial Vision (like CNNs)
-- 📫 How to reach me: pcubasm1@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/percy-cubas/) 
 
 <!--
 **pQbas/pQbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
