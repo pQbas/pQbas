@@ -3,7 +3,7 @@
 Hello, I'm Percy, here I upload my opensource projects related to Machine Learning, 
 Data Science, or Robotics. I hope you find something interesting, cheers!!!
 
-- 🔭 I’m currently working on IDEGO as a Web Developer
+- 🔭 I’m currently working on YaVendió!!!
 - 👯 I’m looking to collaborate on Reinforcment Learning projects
 - 💬 Ask me about Computer Vision and Artificial Vision (like CNNs)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/percy-cubas/) 
