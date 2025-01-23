@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Hello, I'm Percy, here I upload my opensource projects related to Machine Learning, 
-Data Science, or Robotics. I hope you find something interesting, cheers!!!
+Data Science, or Robotics. I hope you find something interesting.
 
 - ⚡ I’m currently working on YaVendió!!!
 - 🔭 I’m looking to collaborate on Reinforcment Learning projects
